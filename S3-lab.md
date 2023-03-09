@@ -1,8 +1,8 @@
-# S3 Demo instructions
+# S3 Lab instructions
 
 ## Description
 
-This demo will cover:
+This lab will cover:
 
 - Creating an S3 bucket from AWS CloudShell/AWS CLI and from the AWS Console
 
