@@ -106,7 +106,7 @@ def lambda_handler(event, context):
     for record in event['Records']:
         bucket_name = record['s3']['bucket']['name']
         key_name = record['s3']['object']['key']
-        register_put(bucket_name,key_name)3
+        register_put(bucket_name,key_name)
 
 ```
 
