@@ -12,8 +12,6 @@ This lab will cover:
 
 - Access to an AWS Account
 
-- AWS CLI installed and configured or access to AWS Cloudshell
-
 - Docker or any MySQL client installed
 
 ## Instructions
